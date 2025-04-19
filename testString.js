@@ -1,5 +1,59 @@
 const testString = 
-`Moon in the sky
+`You think we want new furniture
+a stove some major appliance
+We only ask because
+we can't get what we want.
+
+That old stereotype about women spending money,
+wanting jewelry,
+wanting more more more
+
+That's what we fall back on
+when we can't get what we want.
+
+A new house, a new car, new drapes are all far
+from the truth of what we really seek.
+
+Can't you see in our night eyes
+Don't you feel the red silk of our negligee
+Have you forgotten the smell of our essence?
+
+Why can't you hear our request
+through the lines?
+
+We want you
+
+And when you can't give us yourself anymore
+we give up
+and ask
+for a dog.
+
+Sometimes, when I go out on a new date, I
+feel like I'm sixteen again.
+I'll rifle through my closet, deciding I have
+absolutely nothing to wear.
+He'll pick me up, and we'll go to a
+restaurant with deer heads on the walls,
+and we'll have whiskey sours, and we'll
+struggle with the lettuce leaves in
+the salads because they're too big, and
+when we're done with dinner we'll go
+to a bar that's so crowded and so loud that
+we won't be able to talk to each
+other, but we'll have to stand real close.
+And then he'll take me home and I'll invite
+him in, he'll sit on the chair,
+I'll sit on the couch, and he'll ask for a glass
+of water. When we can't
+think of any more small talk, and the clock
+says 3:12 a.m., I'll see him to
+the door, he'll kiss me good-bye, and I'll
+lock the door after he leaves. And
+when I'm sure he can't see me through the
+window, I'll turn on the stereo and
+dance in my living room before I go to bed.
+
+Moon in the sky
 Clouds on the ground
 Lost in mass wonder
 Falling from sound
@@ -71,6 +125,7 @@ Within the blink of an eye?
 Or a quick question why?
 Is life just a lie?
 I wonder and sigh...
+
 A few small questions, reservations
 all requiring confirmations.
 When you do, such comes to you

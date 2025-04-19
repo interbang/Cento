@@ -29,22 +29,3 @@ function shuffleArray(array) {
   }
   return array;
 }
-
-
-
-// POEM.textContent = poemArr[0];
-
-// Expected output: [
-//     "",
-//     "Ache's Fruit",
-//     "A.R.Midgley",
-//     "",
-//     "A few small questions, reservations",
-//     "all requiring confirmations.",
-//     "When you do, such comes to you",
-//     "in many forms, and feelings too",
-//     "with no remorse, forget regret -",
-//     "I see you every day and yet",
-//     "it’s not enough, I want more:"
-// ]
-
