@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="working_style.css">
+<title>Subscribe to Interbang Magazine</title>
+</head>
+<body>
+
+<div class="header">
+  <p><img src="images/interbang_logo1.png" width="50%" align="center"></p>
+</div>
+
+<div class="row">
+  <div class="col-3 menu">
+    <nav>
+      <h3> <ul>
+          <li><a href="issue1_toc.html">Issue No. 1</a></li>
+          <li>
+            <a href="subscribe.html">Subscribe</a>
+        </li>
+        <li>
+          <a href="index.html">Home</a>
+      </li>
+          
+      </ul></h3>
+    </nav>
+  </div>
+
+  <div class="col-6">
+    <article style="font-family: sans-serif; font-size: medium;">
+      <header>
+        <h1>Subscribe to Interbang</h1>
+      </header>
+      <section>
+        <form id="tosForm" action="https://wp.zybooks.com/form-viewer.php" method="post" target="_blank">
+          <p><label for="name">Name:</label>
+          <input type="text" id="name" name="name"></p>
+          <p><label for="address">Address:</label>
+          <input type="text" id="address" name="address"></p>
+          <p><label for="city">City:</label>
+          <input type="text" id="city" name="city"></p>
+          <p><label for="state">State:</label>
+          <input type="text" id="state" name="state"></p>
+          <p><label for="email">Email:</label>
+          <input type="email" id="email" name="email"></p>
+          <p><label for="zip">ZIP code:</label>
+          <input type="text" id="zip" name="zip" placeholder="5-digit ZIP code"></p>
+          <p><input type="submit" id="validate" value="Submit"></p>
+        </form>
+      </section>
+    </article>
+  </div>
+
+ 
+</div>
+
+<div class="footer">
+  <p>Copyright Bertye Press 2024 All Rights Reserved</p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
