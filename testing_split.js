@@ -5,7 +5,7 @@ const poemArr = [];
 const linesArray = testString.split('\n');
 
 linesArray.forEach((element) => {
-  if (element.indexOf("you") !== -1) {
+  if (element.indexOf("air") !== -1) {
     // console.log(element);
     poemArr.push(element);
   }
