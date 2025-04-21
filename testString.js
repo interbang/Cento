@@ -202,6 +202,327 @@ Screaming out “I’ve never been born.”
 The poor man knew what it meant not to have a father
 How fortunate for us
 This time.
+inside his heart
+she saw light
+crying to get out
+and follow a dream in the sky
+he was darn and silent
+only her magic could turn
+winter to spring
+and he was in love
+together they flew
+and twirled a silly song
+upon time
+they went slowly at night
+and nestled in a cocoon
+where they were happy...
+
+
+I want to write a poem that will get me laid
+I wanna drop the bomb upon every woman
+That will make them believe I’m the hottest thing
+
+See, I’m not as cool as McQueen or James Dean
+I can’t keep a poker-face if I’m holding more than a king
+I don’t have a Kirk Douglas chin with a gritty smile
+Or Fred Astaire grace, flawless in style
+I don’t embrace the force like Obi One Kenobi
+I don’t have money like Trump or hair like Bon Jovi
+
+I want to write a poem that will get me laid
+My words will have to be tactful
+Subtle, yet unafraid
+Sublime words that will softly stroke
+The pulse of her femininity
+Taunting words with feathery trails
+That will tantalize a need for remedy
+
+I don’t have an athletic build
+I’m not in the top of my field
+(I don’t even have a field)
+I don’t have the charm of a secret agent spy
+Or dark mysterious eyes
+I just have this compass with a magnet jammed in its side
+I want to write a poem that’ll get me laid
+It would have to build me an air
+Of sensuality and knowingness
+Try to keep that slow, grinding, beat
+Smoky, jazz funk, fluid heat
+
+An indistinct warmth that will have to be satisfied
+The rising of yawning lust
+Like a vapor
+Deep inside
+
+Yeah, that’s the way
+I’m gonna write a poem that will get me laid
+One that will drive her
+Drive her to the very brink
+
+But... But... But...
+I think I just ran out of ink
+
+
+twenty two checks are all one needs
+there need not be security or control
+just twenty two checks
+perhaps a jacket,
+with black and white stains
+or maybe some oversized socks
+I know she shouldn’t be doing this
+but it feels so good
+twenty two checks and
+our Christmas is saved
+twenty two checks and santa
+is as fat and jolly as ever
+are they kidding? don’t they know?
+my mother has twenty two checks
+a lot of things to buy
+she’s not through yet,
+where are you going
+mom I need you to help me escape
+from your insanity
+which is so appealing
+in its innocence and infanity I want
+twenty two checks and
+a black and white smeared coat
+to become you is my greatest object
+and of fear I run from you
+because I am the last of the great
+mother lovers and twenty two checks
+is nothing to me
+it’s simply another exercise of your godliness
+
+I pray
+to your apotheosis
+what would monsignor lawler say
+if he were to love us now
+we are no longer apart,
+but partners in crime together
+I’ll chase the pigs from the pen
+and run with you into
+our great neckian utopia
+and pretend that we sit around
+the tape recorder listening to your authoritarian,
+entrepreneurial begetter
+ask us what we want.
+as our turn comes around
+we will whisper quietly
+twenty two checks!
+and santa will come
+and give us our book of ecstasy
+come lets go
+to all those vultures who wait
+in their decorated nests for
+our twenty two checks which
+may never come true,
+simply scribblings upon a paper
+which will eventually be cashed in
+for parker’s with black
+and white spills that come to signify
+our innocence and incapability in a
+scientific world where numbers must
+match ledgers and people must be
+paid for their black and white atrocities
+the elasticity of their economy
+depends upon us
+we are needed to give them meaning
+and truth we signify
+the vilified other half which
+gives them the mirror through
+which they primp their angled nostrils
+come lets give them
+something to do today
+we‘ve got twenty two checks
+and a new cross pen
+let’s write them our love letter which
+will only be sneered at
+let’s give them notes about us
+let’s invite them into our
+world which they could never understand
+22 checks fifteen hundred dollars
+its all the same to us
+the balancing act bored
+the greatest minds of the experiment
+we must push the acrobat
+from the tightrope on purpose
+watch him hit the ground painfully hard
+and wonder why equilibrium fueled his fall
+why balance
+finally claimed him
+consumed him devoured him
+the unbalanced principle is ours and
+will not be understood
+by those acrobats who have something to lose when their
+balance is jeopardized
+let us unbalance the world set it to rights
+and cash our
+twenty two checks twenty two times in
+twenty two different ways.
+
+
+How horrible a thing is death:
+Non-consciousness, absence of breath.
+Life’s predestined start we celebrate,
+Yet how arbitrary its ending,
+Determined by fate.
+Horrible death: monumental
+(Then why so pending an event?)
+Perhaps the cure to the habit of life is Insignificant.
+
+How troublesome a thing is dying:
+An utter end for one,
+For few a cause for crying.
+For the rest in existence a speck in the eye
+(At most a reminder that they too will die)
+Such a nuisance, a disruption—
+There’s work to be done!
+How selfish is man’s great horror of death
+For it troubles only one.
+
+
+Men love sluts my best
+friend’s cousin
+croons, a sixteen year old authority
+fresh from juvenile hall.
+So we push up our 12 year old baby tits.
+add mascara and body glitter.
+Pose for our own approval.
+
+That summer my friend disappears
+not seen again ‘til age 17.
+I’m clerking that year at the drugstore.
+She comes in with a drug addict’s face,
+housewife’s hands, no wedding ring.
+Purchases some diapers.
+averting her eyes from mine.
+
+High school I find a new best friend
+with a different name and haircolor
+but the same weak, pretty voice.
+
+Helpless at pleading no,
+at twisting her body under his,
+she comes back to school in her
+mother’s glasses, hiding two black eyes.
+Her world reduced to hospital vials
+praying for the monthly tremble of blood,
+a negative HIV result.
+
+She recovered into a softer voice
+and a shakier walk.
+Started splaying her ivory candlestick legs
+at a strip club on the other side of town.
+Lost her name to Honey.
+
+So I should have known better
+than to make love to a man
+who entered me like he was walking on stage.
+Thinking I’d leave something more
+behind than lipstick stains on his carpet,
+hair clogging his drain.
+
+This city is full of girls
+who paint their mouths
+the color of whores’ fingernails,
+thinking they’ll find
+a man who’ll love them.
+Men love sluts.
+but not the way they love their Mamas,
+not the way they love Jesus.
+
+
+Morning pushes amber fingers of light
+through the blinds,
+but here
+the sun amounts to nothing.
+
+Even the bed is wrong.
+Busy sheets, fat pillows.
+
+She longs to lose
+her insect flesh
+in the white sterility of a hospital.
+To have nurses, needles,
+eat up the overabundance
+of the hours.
+
+She hates herself. But she is beautiful.
+Skin like
+white porcelain:
+Toilet.
+Teeth.
+One will rot the other.
+
+There are easier ways to die,
+but none dizzier
+than slowly vomiting yourself
+back into the corner
+you think you belong to.
+
+Girls wait
+for lovers with fingers like
+delicate birds
+to teach them how to fly.
+
+Mothers, tell your daughters.
+
+Too many of my sisters
+are crouching in the corner,
+wearing their bodies
+like wounds.
+my life is that rare bootleg always illegal if you speak it
+the women who leave me love me
+from porch swing views I lose
+all the birthday wishes I've ever spit up on cake
+my home is heated, the outside grows and growls
+everything gets bigger except my outlook. 
+Loaded to middle
+Pickled and pure
+Plastered like putty
+Blind as a door
+Stewed boiled and juiced
+Polluted and poor
+Jagged over heels
+Oiled and sore
+Smashed like a pumpkin
+As full as a tick
+Sozzled and tanked
+Full to the tip
+With black teeth afloat
+Sefaring in the suds
+Swazzled and Zonked
+One more was then chugged
+Lit up like a Christmas tree
+And high as a kite
+Blue around the gills
+Bosko Absoluto Bosky that night
+Stinkarooed stiff
+I was knee walking drunk. 
+
+
+he's a 4 prong plug in a 3 prong world
+not wired into the rest of us. always
+thinking of snakes and dancing, all elbows,
+in sunlit corners with dust motes and dreams
+
+but she loves him
+when he whispers words. the words
+that slither. tingle with her sadness
+as they make love on the futon
+in a circle of candles melting
+on hardwood floors warped
+with the rings of beer bottles
+left when the empties are tossed
+
+and she has to believe
+in the letter that never comes
+in the genius nobody sees
+to keep from drowning herself
+in the deep fat fryer down at the mall
+giving into a dark so empty
+of dust motes and dreams
+
  `;
 
  export {testString};
