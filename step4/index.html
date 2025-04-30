@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cento Testing</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="main.js" defer type="module"></script>
+</head>
+<body>
+  <form id="form">
+    <fieldset>
+    <legend>Create a Cento Poem</legend>
+    <div>
+      <label for="name">Name: </label>
+      <input type="text" id="name" name="name" required>
+      <span id="nameError" class="error"></span>
+    </div>
+    &nbsp;
+    <div>
+      <label for="keyword">Choose a keyword &nbsp;</label>
+      <select name="keyword" id="keyword" required>
+        <option value="">---Keywords:---</option>
+        <option value="will">will</option>
+        <option value="love">love</option>
+        <option value="time">time</option>
+        <option value="some">some</option>
+        <option value="want">want</option>
+        <option value="when">when</option>
+        <option value="can">can</option>
+        <option value="you">you</option>
+    </select>
+    &nbsp;  &nbsp;
+    <span>
+      <button type="submit">Submit</button>
+    </span>
+    </div>
+    
+    
+    <p>
+    </p>
+    <!-- <div>
+      <button type="button" id="shuffle">Shuffle the order of the lines</button>
+    </div> -->
+    
+    
+  </fieldset>
+</form>
+<div>&nbsp;</div>
+<div id="greeting"></div>
+<div>&nbsp;</div>
+<!-- 
+
+  <div id="poem"></div>
+  <div>&nbsp;</div>
+  <div id="buttons"></div>
+  <div>&nbsp;</div> -->
+    
+  <div id="table"></div>
+</body>
+</html>
