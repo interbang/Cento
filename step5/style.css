@@ -1,0 +1,42 @@
+.error {
+  font-weight: bold;
+  color: blue;
+}
+
+.invalid {
+  border-color: red;
+}
+
+#nameError {
+  color: blue;
+}
+
+body {
+  background-color: brown;
+  color: beige;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#greeting {
+  color: yellow;
+  font-size: 24px;
+  font-style: italic;
+}
+
+#poem {
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:beige;
+}
+
+#title {
+  font-size: 28px;
+  font-weight: bold;
+  color:beige;
+}
+
+b {
+  font-size: 30px;
+  font-weight: bolder;
+
+}

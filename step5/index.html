@@ -13,13 +13,13 @@
     <legend>Create a Cento Poem</legend>
     <div>
       <label for="name">Name: </label>
-      <input type="text" id="name" name="name" required />
+      <input type="text" id="name" name="name" autocomplete="on">
       <span id="nameError" class="error"></span>
     </div>
     &nbsp;
     <div>
       <label for="keyword">Choose a keyword &nbsp;</label>
-      <select name="keyword" id="keyword" required>
+      <select name="keyword" id="keyword">
         <option value="">---Keywords:---</option>
         <option value="will">will</option>
         <option value="love">love</option>
@@ -30,31 +30,24 @@
         <option value="can">can</option>
         <option value="you">you</option>
     </select>
-    &nbsp;  &nbsp;
-    <span>
+    <span id="keywordError" class="error"></span>
+  </div>
+  <div>&nbsp;  &nbsp;</div>
+    
+    <div>
       <button type="submit">Submit</button>
-    </span>
     </div>
+    
     
     
     <p>
     </p>
-    <!-- <div>
-      <button type="button" id="shuffle">Shuffle the order of the lines</button>
-    </div> -->
-    
     
   </fieldset>
 </form>
 <div>&nbsp;</div>
-<div id="greeting"></div>
-<div>&nbsp;</div>
-<!-- 
 
-  <div id="poem"></div>
-  <div>&nbsp;</div>
-  <div id="buttons"></div>
-  <div>&nbsp;</div> -->
+<div>&nbsp;</div>
     
   <div id="table"></div>
 </body>

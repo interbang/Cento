@@ -112,5 +112,5 @@ FORM.addEventListener("submit", (e) => {
   storePoemData(NAME.value, KEYWORD.value, centoArr);
   renderTbl(poemData);
   FORM.reset();
+  console.log(centoArr[1]);
 });
-
