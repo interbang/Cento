@@ -1,9 +1,10 @@
 import { testString } from "./testString.js";
 import { renderTbl } from "./render.js";
-import { FORM, KEYWORD, NAME } from "./global.js";
+import { FORM, KEYWORD, randomButton, TBL_DIV, LINES} from "./global.js";
 
 let centoArr = [];
 const poemData = [];
+
 
 const splitString = () => {
   const linesArray = testString.split("\n");
@@ -30,52 +31,44 @@ const shuffleArray = (array) => {
 const start = (keyword) => {
   createArr(splitString(), keyword);
   shuffleArray(centoArr);
+  return centoArr;
 };
 
-const storePoemData = (firstName, keyword, poem) => {
+const storePoemData = (lines, keyword, poem) => {
   poemData.push({
-    firName: firstName,
+    numLines: lines,
     kword: keyword,
     pArray: poem,
   });
 };
 
-const validateName = (event) => {
-  const field = event.target.value;
-  const fieldError = document.getElementById("nameError");
-
-  if (field === "") {
-    fieldError.textContent = `Name is required`;
-    event.target.classList.add("invalid");
-  } else {
-    fieldError.textContent = "";
-    event.target.classList.remove("invalid");
-  }
-};
-
-NAME.addEventListener("blur", validateName);
-
-const validateKeyword = (event) => {
-  const field = event.target.value;
-  const fieldError = document.getElementById("keywordError");
-
-  if (field === "") {
-    fieldError.textContent = `Keyword is required`;
-    event.target.classList.add("invalid");
-  } else {
-    fieldError.textContent = "";
-    event.target.classList.remove("invalid");
-  }
-};
-
-KEYWORD.addEventListener("blur", validateKeyword);
-
 FORM.addEventListener("submit", (e) => {
   centoArr = [];
   e.preventDefault();
   start(KEYWORD.value);
-  storePoemData(NAME.value, KEYWORD.value, centoArr);
+  let nLines = parseInt(LINES.value);
+  centoArr = centoArr.slice(0, nLines)
+  storePoemData(nLines, KEYWORD.value, centoArr);
   renderTbl(poemData);
   FORM.reset();
-  console.log(centoArr[0]);
+});
+
+randomButton.addEventListener("click", (e) => {
+  centoArr = [];
+  e.preventDefault();
+  start("");
+  let nLines = parseInt(LINES.value);
+  centoArr = centoArr.slice(0, nLines);
+  storePoemData(nLines, "", centoArr);
+  renderTbl(poemData);
+  FORM.reset();
+});
+
+TBL_DIV.addEventListener("click", (e) => {
+  const index = parseInt(e.target.dataset.poemIndex);
+  if (index !== undefined) {
+    const poemToShuffle = poemData[index];
+    shuffleArray(poemToShuffle.pArray);
+    renderTbl(poemData);
+  }
 });

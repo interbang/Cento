@@ -1,3 +1,4 @@
+import {TBL_DIV} from "./global.js";
 
 const renderBody = (data) => {
   const table = document.createElement("table");
@@ -44,11 +45,10 @@ const renderBody = (data) => {
 };
 
 const renderTbl = (data) => {
-  const TBL = document.getElementById("table");
-  TBL.innerHTML = "";
+  TBL_DIV.innerHTML = "";
   if (data.length !== 0) {
     const table = renderBody(data);
-    TBL.appendChild(table);
+    TBL_DIV.appendChild(table);
   }
 };
 
